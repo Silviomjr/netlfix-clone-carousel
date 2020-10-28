@@ -1,0 +1,27 @@
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    
+
+    .description {
+        text-align: justify;
+        
+    }
+
+    .button {
+        margin-top: 5px;
+        width: 200px;
+        height: 60px;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .description {
+        width: 70%;
+        text-align: justify;
+    }
+}
