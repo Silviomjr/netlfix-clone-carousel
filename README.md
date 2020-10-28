@@ -10,6 +10,7 @@ It's an exemple on how to work with HTML and CSS. Also, we used a JQuery plugin 
 - [Features](#features)
 - [Authors](#authors)
 - [Technologies](#technologies)
+- [Other contents](#other-contents)
 
 # Features
 
@@ -28,3 +29,6 @@ It's an exemple on how to work with HTML and CSS. Also, we used a JQuery plugin 
 - CSS
 - Javascript
 
+# Other contents
+
+All the images were taken at [The Movie DB - TMDB](https://www.themoviedb.org/?language=pt-BR).
